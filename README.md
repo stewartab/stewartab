@@ -2,7 +2,7 @@
 
 You may contact me at:
 
-[![Discord](https://img.shields.io/badge/Discord-000?logo=discord&style=for-the-badge)]([https://discord.gg/yourserverlink](https://discord.com/users/616612175724806144))
+[![Discord](https://img.shields.io/badge/Discord-000?logo=discord&style=for-the-badge)](https://discord.com/users/616612175724806144)
 
 
 <!--
