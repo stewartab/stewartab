@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+You may contact me at:
+
+[![Discord](https://img.shields.io/badge/Discord-000?logo=discord&style=for-the-badge)]([https://discord.gg/yourserverlink](https://discord.com/users/616612175724806144))
+
 
 <!--
 **stewartab/stewartab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
